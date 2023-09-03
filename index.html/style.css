@@ -1,0 +1,115 @@
+body {
+    background-color: rgb(128, 206, 240);
+}
+
+.navbar {
+    background-color: rgb(209, 105, 122);
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-nav .nav-link  {
+    color: white;
+}
+
+.header {
+    text-align: center;
+    padding: 70px 0;
+}
+
+.about-img {
+    width: 250px; 
+    height: auto; 
+    border-radius: 50%;
+}
+
+.header h1 {
+    color:rgb(209, 105, 122);
+}
+.header p {
+    color: white;
+    font-size: 25px;
+}
+
+.about-caption {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.about-caption h3 {
+    color:rgb(209, 105, 122);
+}
+
+.about-caption p {
+    color: white;
+}
+
+.section-pengalaman {
+    margin-top: 50px;
+}
+
+.col-lg-4 h4 {
+    color: rgb(209, 105, 122);
+}
+
+.col-lg-4 p {
+    color: white;
+}
+
+.pengalaman h3 {
+    color:rgb(209, 105, 122);
+}
+
+.section-contact {
+    margin-top: 50px;
+}
+
+.contact h3 {
+    color:rgb(209, 105, 122);
+}
+
+.contact-form label {
+    font-size: 20px;
+}
+
+.contact-form input {
+    font-size: 20px;
+}
+
+.contact-form button {
+    font-size: 20px;
+}
+
+label {
+    color: rgb(209, 105, 122);
+}
+
+.footer {
+    color: white;
+    background-color:rgb(209, 105, 122);
+    margin-top: 30px;
+    padding: 10px;
+    text-align: flex-start;
+}
+
+.container-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.social.icons {
+    margin-top: 20px;
+}
+
+.social-icon {
+    font-size: 24px;
+    margin: 0 10px;
+    color: white;
+}
+
+.social-icon:hover {
+    color: rgb(128, 206, 240);
+}
